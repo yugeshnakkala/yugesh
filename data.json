@@ -1,0 +1,25 @@
+{
+    "basic":{
+        "name":"No Way",
+        "role":"used",
+        "email":"noway@gmail.com",
+        "mobile":"7396949496",
+        "education":[
+            {
+                "degree":"SSE",
+                "per":78
+            },
+            {
+                "degree":"INTER",
+                "per":78.4
+            },
+            {
+                "degree":"B-TECH",
+                "per":75
+            }
+        ]
+    }
+
+
+
+}
